@@ -4,7 +4,7 @@ echo 战神一键搭建脚本
 echo MADE BY FANGXX
 echo Base By 缔梦天成
 echo 安装前请确认已安装docker环境
-echo 脚本发布时战神版本为7.7
+echo 脚本发布时战神版本为8.1
 echo "Docker Hub地址：https://hub.docker.com/r/dmtc/zhan-shen"
 echo ---------------------简介分割线--------------------------
 echo -e "容器简介：战神容器是一个集多种功能于一身的大型网页容器\n          容器拥有ddns+frpc+frps+酸奶+远程下载+博客……等功能"
@@ -28,7 +28,7 @@ echo -n "请输入本地qbittorrent下载目录[必填]>>>"
 read qbittorrent
 
 echo    "请输入安装版本[必填]"
-echo -n "如果不清楚，请填写7.7>>>"
+echo -n "如果不清楚，请填写8.1>>>"
 read version
 
 echo -n "请输入容器名称[自定义-小写英文-不可空格]>>>"
