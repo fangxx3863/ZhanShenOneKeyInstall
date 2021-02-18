@@ -6,6 +6,7 @@ echo Base By 缔梦天成
 echo 安装前请确认已安装docker环境
 echo 脚本发布时战神版本为2020-10-11
 echo "Docker Hub地址：https://hub.docker.com/r/dmtc/zhan-shen"
+echo "作者已更新群晖套件版，如有需要请访问上方链接了解详情"
 echo ---------------------简介分割线--------------------------
 echo -e "容器简介：战神容器是一个集多种功能于一身的大型网页容器\n          容器拥有ddns+frpc+frps+酸奶+远程下载+博客……等功能"
 echo ""
